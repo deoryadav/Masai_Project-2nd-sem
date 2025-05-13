@@ -1,0 +1,4 @@
+MemberID,Name,PasswordHash,Email,JoinDate
+1001,Ananya Singh,$2b$12$Q3...hashed...mz,ananya@mail.com,2025-05-10
+1002,deo,$2b$12$SxJozxGvYoQQ7Ni/VofeMuq/ikOl27cpk/6P7dNwvFD5d23WJEkty,deo@example.com,2025-05-12
+1003,Jane Doe,$2b$12$Z1BzECtV92EWFiKGvEl.aucMYC61KVYNI1fbNrDxnBCK3rVBgzFRC,jane@example.com,2025-05-13
